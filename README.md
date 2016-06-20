@@ -2,6 +2,8 @@
 
 adapted from TWIT-TV Know How 187: https://twit.tv/shows/know-how/episodes/187?autostart=false
 
+You can see the various patterns at https://youtu.be/5_fy7gLFLTE if the mp4 file is too big to play here
+
 major kudos to Fr. Robert Ballecer and Bryan Burnett for their steampunk goggles project and for pointing me to the FastLED library
 
 major kudos to Daniel Garcia and Mark Kriegsman for the FANTASTIC FastLED library and examples!!!
