@@ -23,3 +23,8 @@ Finally I looked back at other fantastic code samples from FastLED and adapted t
 https://github.com/FastLED/FastLED/blob/master/examples/Fire2012WithPalette/Fire2012WithPalette.ino
 
 This code is just for fun; not trying to make it an example of how to code in serious applications.
+
+UPDATE:
+See post on TWIT Know-How group in Google Plus: https://plus.google.com/100452347452995185114
+See the mention received on TWIT.TV Know-How Episode 225: https://twit.tv/shows/know-how/episodes/225?autostart=false
+Thanks Fr. Robert Ballecer and Bryan Burnett for the shout-out!!! Sorry my comment was such a jaw buster!
