@@ -2,6 +2,9 @@
 
 adapted from TWIT-TV Know How 187: https://twit.tv/shows/know-how/episodes/187?autostart=false
 
+![alt text](https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/images/IMG07529_madScience.png "Mad Science is improved when wearing steampunk goggles")
+![alt text](https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/images/IMG06760_3goggles.png "Built three steampunk goggles - two for friends")
+
 You can see the various patterns at https://youtu.be/5_fy7gLFLTE if the mp4 file is too big to play here
 
 major kudos to Fr. Robert Ballecer and Bryan Burnett for their steampunk goggles project and for pointing me to the FastLED library
