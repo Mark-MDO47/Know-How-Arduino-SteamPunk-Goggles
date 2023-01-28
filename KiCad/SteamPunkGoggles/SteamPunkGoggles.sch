@@ -74,17 +74,8 @@ Wire Wire Line
 Wire Wire Line
 	5850 1900 5850 3650
 Wire Wire Line
-	5850 3650 5450 3650
-Wire Wire Line
-	5450 3350 5450 3650
-Wire Wire Line
 	5450 4450 5050 4450
 Connection ~ 5450 3350
-Connection ~ 5450 3650
-Wire Wire Line
-	5450 3650 5050 3650
-Wire Wire Line
-	5450 3650 5450 4450
 Wire Wire Line
 	3850 3750 3650 3750
 Wire Wire Line
@@ -186,4 +177,8 @@ Wire Wire Line
 	5050 1550 5050 3250
 Wire Wire Line
 	3450 2200 5450 2200
+Wire Wire Line
+	5050 3650 5850 3650
+Wire Wire Line
+	5450 3350 5450 4450
 $EndSCHEMATC
