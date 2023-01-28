@@ -40,7 +40,7 @@ L Device:Battery_Cell BT?
 U 1 1 63D4C0E5
 P 950 4050
 F 0 "BT?" H 1068 4146 50  0000 L CNN
-F 1 "Battery_Cell" H 1068 4055 50  0000 L CNN
+F 1 "Battery_9V" H 1068 4055 50  0000 L CNN
 F 2 "" V 950 4110 50  0001 C CNN
 F 3 "~" V 950 4110 50  0001 C CNN
 	1    950  4050
@@ -82,8 +82,6 @@ Wire Wire Line
 Wire Wire Line
 	5450 4450 5050 4450
 Connection ~ 5450 3350
-NoConn ~ 5450 3650
-NoConn ~ 5050 2200
 Connection ~ 5050 2200
 Wire Wire Line
 	5050 2200 5050 1550
@@ -133,15 +131,12 @@ Wire Wire Line
 Wire Wire Line
 	950  4200 2100 4200
 Wire Wire Line
-	7050 4950 7350 4950
-Wire Wire Line
 	3650 5200 7350 5200
 Wire Wire Line
 	5450 4450 5450 4650
 Connection ~ 5450 4450
 Wire Wire Line
 	6100 1550 6100 4500
-NoConn ~ 7350 4950
 $Comp
 L mdoLibrary:LEDring_med Z?
 U 1 1 63D744C6
@@ -165,13 +160,6 @@ F 3 "" H 9700 3300 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7350 5200 7350 4950
-Connection ~ 7350 4950
-Wire Wire Line
-	7350 4950 9850 4950
-Wire Wire Line
-	7350 4950 7350 4150
-Wire Wire Line
 	5450 4650 7150 4650
 Wire Wire Line
 	7250 4150 7250 4500
@@ -179,8 +167,7 @@ Connection ~ 7250 4500
 Wire Wire Line
 	7250 4500 9750 4500
 Wire Wire Line
-	7050 4150 7050 4950
-NoConn ~ 7050 4650
+	7050 4150 7050 4350
 Wire Wire Line
 	6100 4500 7250 4500
 Wire Wire Line
@@ -193,8 +180,15 @@ Wire Wire Line
 Wire Wire Line
 	9750 4100 9750 4500
 Wire Wire Line
-	9850 4100 9850 4950
-NoConn ~ 9650 4500
-NoConn ~ 7050 4500
-NoConn ~ 7150 4500
+	9850 4100 9850 4350
+Text Notes 6750 3050 0    79   ~ 0
+WS2812B 5050\n 16 LED Ring
+Text Notes 9250 3000 0    79   ~ 0
+WS2812B 5050\n 16 LED Ring
+Text Notes 4850 1300 0    79   ~ 0
+Potentiometer between\n 10 KOhm to 50 KOhm
+Wire Wire Line
+	7050 4350 9850 4350
+Wire Wire Line
+	7350 4150 7350 5200
 $EndSCHEMATC
