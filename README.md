@@ -14,6 +14,8 @@ Major kudos to Fr. Robert Ballecer and Bryan Burnett for their steampunk goggles
 Major kudos to Daniel Garcia and Mark Kriegsman for the FANTASTIC FastLED library and examples!!!
 https://github.com/FastLED/FastLED
 
+## Software changes from KnowHow
+
 I made one of the potentiometer-selectable patterns cycle or rove through all the patterns one by one.
 
 Then I noticed the code was originally based on some brilliant FastLED patterns that were designed for linear light strips but of course the goggles use two circular rings.
