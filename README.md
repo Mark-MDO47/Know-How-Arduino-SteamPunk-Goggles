@@ -74,7 +74,7 @@ Things to Remember
 
 2. We soldered the wiper (the pin that sends variable voltage depending on the position of the pot) to Analog 7
 
-3. The data line going to our LED rings is soldered to Digital 3 4. We have 32 LEDs (16 + 16)
+3. The data line going to our LED rings is soldered to Digital 3. We have 32 LEDs (16 + 16) [MDO correction pin 3]
 
  
 
