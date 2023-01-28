@@ -2,9 +2,9 @@
 
 There are a few differences in my build versus the KnowHow build
 - I used a 9V rechargeable battery
+- I added a knife switch to power on/off - homage to Frankenstein
 - I put all the 5V connections to the Arduino on the 5V pin (no connect for VIN)
 - I connected ground to the Arduino REF pin - this gives better performance from the analog input
-- I added a knife switch to power on/off - homage to Frankenstein
 
 Below text is instruction from TWIT-TV KnowHow
 
