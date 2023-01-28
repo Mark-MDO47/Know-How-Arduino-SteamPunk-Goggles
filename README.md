@@ -35,7 +35,7 @@ See the mention received on TWIT.TV Know-How Episode 225: https://twit.tv/shows/
 Thanks Fr. Robert Ballecer and Bryan Burnett for the shout-out!!! Sorry my Google Plus post was such a jaw buster!
 
 ## FURTHER UPDATE:
-For a description of differences between the this build and the KnowHow build, see
+For a description of differences between the this build and the KnowHow build (other than software changes above), see
 * https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/KnowHowBuildInstructions.md
 
 For a schematic-style wiring diagram of this build, see the KiCad directory or
