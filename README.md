@@ -37,5 +37,6 @@ Thanks Fr. Robert Ballecer and Bryan Burnett for the shout-out!!! Sorry my Googl
 ## FURTHER UPDATE:
 For a description of differences between the this build and the KnowHow build, see
 * https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/KnowHowBuildInstructions.md
+
 For a schematic-style wiring diagram of this build, see the KiCad directory or
 * https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/SteamPunkGoggles_Wiring.pdf
