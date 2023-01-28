@@ -1,0 +1,200 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Steam Punk Goggles from KnowHow187"
+Date "2023-01-27"
+Rev ""
+Comp "MDO"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L mdoLibrary:Arduino A?
+U 1 1 63D469A7
+P 4450 3950
+F 0 "A?" H 4450 4937 60  0000 C CNN
+F 1 "Arduino" H 4450 4831 60  0000 C CNN
+F 2 "" H 4450 3950 60  0000 C CNN
+F 3 "" H 4450 3950 60  0000 C CNN
+	1    4450 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L mdoLibrary:UBEC J?
+U 1 1 63D4B50C
+P 2600 4050
+F 0 "J?" H 2700 4737 60  0000 C CNN
+F 1 "UBEC" H 2700 4631 60  0000 C CNN
+F 2 "" H 2600 4050 60  0001 C CNN
+F 3 "" H 2600 4050 60  0001 C CNN
+	1    2600 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery_Cell BT?
+U 1 1 63D4C0E5
+P 950 4050
+F 0 "BT?" H 1068 4146 50  0000 L CNN
+F 1 "Battery_Cell" H 1068 4055 50  0000 L CNN
+F 2 "" V 950 4110 50  0001 C CNN
+F 3 "~" V 950 4110 50  0001 C CNN
+	1    950  4050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5450 2200 5450 3350
+Wire Wire Line
+	5450 3350 5050 3350
+Wire Wire Line
+	5450 1550 5450 1750
+$Comp
+L Device:R_POT RV?
+U 1 1 63D49A93
+P 5450 1900
+F 0 "RV?" H 5381 1946 50  0000 R CNN
+F 1 "R_POT" H 5381 1855 50  0000 R CNN
+F 2 "" H 5450 1900 50  0001 C CNN
+F 3 "~" H 5450 1900 50  0001 C CNN
+	1    5450 1900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5450 2050 5450 2200
+Wire Wire Line
+	5050 3250 5050 2200
+Connection ~ 5450 2200
+Wire Wire Line
+	5450 1550 5050 1550
+Connection ~ 5050 1550
+Wire Wire Line
+	5600 1900 5850 1900
+Wire Wire Line
+	5850 1900 5850 3650
+Wire Wire Line
+	5850 3650 5450 3650
+Wire Wire Line
+	5450 3350 5450 3650
+Wire Wire Line
+	5450 4450 5050 4450
+Connection ~ 5450 3350
+NoConn ~ 5450 3650
+NoConn ~ 5050 2200
+Connection ~ 5050 2200
+Wire Wire Line
+	5050 2200 5050 1550
+Wire Wire Line
+	5050 2200 5450 2200
+Connection ~ 5450 3650
+Wire Wire Line
+	5450 3650 5050 3650
+Wire Wire Line
+	5450 3650 5450 4450
+Wire Wire Line
+	3850 3750 3650 3750
+Wire Wire Line
+	3650 3750 3650 5200
+Wire Wire Line
+	5450 1550 6100 1550
+Connection ~ 5450 1550
+Wire Wire Line
+	3450 2200 3450 4200
+Wire Wire Line
+	3450 2200 5050 2200
+Wire Wire Line
+	950  3800 950  3850
+Wire Wire Line
+	950  4200 950  4150
+$Comp
+L mdoLibrary:SW_SPST SW?
+U 1 1 63D6255A
+P 1600 3800
+F 0 "SW?" H 1600 4035 50  0000 C CNN
+F 1 "SW_SPST" H 1600 3944 50  0000 C CNN
+F 2 "" H 1600 3800 50  0001 C CNN
+F 3 "" H 1600 3800 50  0001 C CNN
+	1    1600 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 3800 3300 1550
+Wire Wire Line
+	3300 1550 5050 1550
+Wire Wire Line
+	3300 4200 3450 4200
+Wire Wire Line
+	1800 3800 2100 3800
+Wire Wire Line
+	1400 3800 950  3800
+Wire Wire Line
+	950  4200 2100 4200
+Wire Wire Line
+	7050 4950 7350 4950
+Wire Wire Line
+	3650 5200 7350 5200
+Wire Wire Line
+	5450 4450 5450 4650
+Connection ~ 5450 4450
+Wire Wire Line
+	6100 1550 6100 4500
+NoConn ~ 7350 4950
+$Comp
+L mdoLibrary:LEDring_med Z?
+U 1 1 63D744C6
+P 7200 3200
+F 0 "Z?" H 8028 3170 60  0000 L CNN
+F 1 "LEDring_med" H 8028 3064 60  0000 L CNN
+F 2 "" H 7200 3350 60  0001 C CNN
+F 3 "" H 7200 3350 60  0001 C CNN
+	1    7200 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L mdoLibrary:LEDring_med Z?
+U 1 1 63D74B09
+P 9700 3150
+F 0 "Z?" H 10528 3120 60  0000 L CNN
+F 1 "LEDring_med" H 10528 3014 60  0000 L CNN
+F 2 "" H 9700 3300 60  0001 C CNN
+F 3 "" H 9700 3300 60  0001 C CNN
+	1    9700 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7350 5200 7350 4950
+Connection ~ 7350 4950
+Wire Wire Line
+	7350 4950 9850 4950
+Wire Wire Line
+	7350 4950 7350 4150
+Wire Wire Line
+	5450 4650 7150 4650
+Wire Wire Line
+	7250 4150 7250 4500
+Connection ~ 7250 4500
+Wire Wire Line
+	7250 4500 9750 4500
+Wire Wire Line
+	7050 4150 7050 4950
+NoConn ~ 7050 4650
+Wire Wire Line
+	6100 4500 7250 4500
+Wire Wire Line
+	7150 4150 7150 4650
+Connection ~ 7150 4650
+Wire Wire Line
+	7150 4650 9650 4650
+Wire Wire Line
+	9650 4100 9650 4650
+Wire Wire Line
+	9750 4100 9750 4500
+Wire Wire Line
+	9850 4100 9850 4950
+NoConn ~ 9650 4500
+NoConn ~ 7050 4500
+NoConn ~ 7150 4500
+$EndSCHEMATC
