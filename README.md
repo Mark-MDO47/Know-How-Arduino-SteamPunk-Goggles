@@ -1,6 +1,8 @@
 # Know-How-Arduino-SteamPunk-Goggles
 
-adapted from TWIT-TV Know How 187: https://twit.tv/shows/know-how/episodes/187?autostart=false
+Adapted from two episodes of TWIT-TV Know How
+- Episode 186: https://twit.tv/shows/know-how/episodes/186?autostart=false
+- Episode 187: https://twit.tv/shows/know-how/episodes/187?autostart=false
 
 ![alt text](https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/images/IMG07529_madScience.png "Mad Science is improved when wearing steampunk goggles")
 ![alt text](https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/images/IMG06760_3goggles.png "Built three steampunk goggles - two for friends")
