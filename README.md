@@ -7,14 +7,14 @@ Adapted from two episodes of TWIT-TV Know How
 ![alt text](https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/images/IMG07529_madScience.png "Mad Science is improved when wearing steampunk goggles")
 ![alt text](https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/images/IMG06760_3goggles.png "Built three steampunk goggles - two for friends")
 
-You can see the various patterns at https://youtu.be/VJ-WH86G7Pg if the mp4 file is too big to play here
-
 Major kudos to Fr. Robert Ballecer and Bryan Burnett for their steampunk goggles project and for pointing me to the FastLED library
 
 Major kudos to Daniel Garcia and Mark Kriegsman for the FANTASTIC FastLED library and examples!!!
 https://github.com/FastLED/FastLED
 
 ## Software changes from KnowHow
+
+You can see a video of the goggles running through all its patterns at https://youtu.be/VJ-WH86G7Pg
 
 I made one of the potentiometer-selectable patterns cycle or rove through all the patterns one by one.
 
