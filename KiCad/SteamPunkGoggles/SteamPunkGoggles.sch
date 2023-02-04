@@ -5,7 +5,7 @@ $Descr A 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "Steam Punk Goggles from KnowHow187"
-Date "2023-01-27"
+Date "2023-02-03"
 Rev ""
 Comp "MDO"
 Comment1 ""
@@ -173,10 +173,22 @@ Wire Wire Line
 Wire Wire Line
 	2900 5250 3300 5250
 Connection ~ 3300 5250
-Text Notes 4150 5600 0    1181 ~ 0
-O
-Text Notes 4350 5850 0    79   ~ 0
+Text Notes 4350 5950 0    79   ~ 0
 Cable between\n goggle sides
 Text Notes 1750 1450 0    197  ~ 0
 9V rechargeable battery and UBEC on one side\nArduino Nano and potentiometer on other side
+Wire Bus Line
+	4350 4350 5250 4350
+Text Notes 3750 5650 0    1220 ~ 0
+O
+Text Notes 4600 5650 0    1220 ~ 0
+O
+Wire Bus Line
+	4350 5600 5250 5600
+Text Notes 1050 4550 0    79   ~ 0
+Knife Switch
+Text Notes 2000 6100 0    79   ~ 0
+5 Volt\nUniversal\nBattery\nEliminator\nCircuit
+Text Notes 750  5400 0    79   ~ 0
+9V Battery
 $EndSCHEMATC
