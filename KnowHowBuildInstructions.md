@@ -76,7 +76,8 @@ Instructions
 * Insert the loupe pole through a brass gear, then insert it into the 2mm mounting hole in the left frame.
 * Secure the loupe with the mounting nut, tightening it until the loupe lenses are held in tension.
 * Run the battery harness through the hole at the bottom of the battery plate in the left frame piece.
-* Insert the left cup into the left frame, once again making sure that the wires are covered by the frame. Programming We need to add the code that allows us to use the potentiometer to control which animation is being displayed.
+* Insert the left cup into the left frame, once again making sure that the wires are covered by the frame.
+* Programming We need to add the code that allows us to use the potentiometer to control which animation is being displayed.
 
 Things to Remember
 * We're using the "100 lines" code as the basis of our sketch
