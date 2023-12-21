@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name mdoLibrary)(type Legacy)(uri ${KIPRJMOD}/mdoLibrary.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "mdoLibrary")(type "Legacy")(uri "${KIPRJMOD}/mdoLibrary.lib")(options "")(descr ""))
+  (lib (name "SteamPunkGoggles-rescue")(type "KiCad")(uri "${KIPRJMOD}/SteamPunkGoggles-rescue.kicad_sym")(options "")(descr ""))
 )
