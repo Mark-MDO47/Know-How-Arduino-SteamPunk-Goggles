@@ -5,6 +5,12 @@ Adapted from two episodes of TWIT-TV Know How
 - Episode 187: https://twit.tv/shows/know-how/episodes/187?autostart=false
 
 **Table Of Contents**
+* [Top](#know\-how\-arduino\-steampunk\-goggles "Top")
+* [Pictures](#pictures "Pictures")
+* [Attribution](#attribution "Attribution")
+* [Software changes from KnowHow](#software-changes-from-knowhow "Software changes from KnowHow")
+* [UPDATE:](#update "UPDATE:")
+* [FURTHER UPDATE:](#further-update "FURTHER UPDATE:")
 
 ## Pictures
 ![alt text](https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/images/IMG07529_madScience.png "Mad Science is improved when wearing steampunk goggles")
