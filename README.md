@@ -4,9 +4,13 @@ Adapted from two episodes of TWIT-TV Know How
 - Episode 186: https://twit.tv/shows/know-how/episodes/186?autostart=false
 - Episode 187: https://twit.tv/shows/know-how/episodes/187?autostart=false
 
+**Table Of Contents**
+
+## Pictures
 ![alt text](https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/images/IMG07529_madScience.png "Mad Science is improved when wearing steampunk goggles")
 ![alt text](https://github.com/Mark-MDO47/Know-How-Arduino-SteamPunk-Goggles/blob/master/images/IMG06760_3goggles.png "Built three steampunk goggles - two for friends")
 
+## Attribution
 Major kudos to Fr. Robert Ballecer and Bryan Burnett for their steampunk goggles project and for pointing me to the FastLED library
 
 Major kudos to Daniel Garcia and Mark Kriegsman for the FANTASTIC FastLED library and examples!!!
@@ -35,6 +39,8 @@ This code is just for fun; not trying to make it an example of how to code in se
 See post on TWIT Know-How group in Google Plus: https://plus.google.com/100452347452995185114
 See the mention received on TWIT.TV Know-How Episode 225: https://twit.tv/shows/know-how/episodes/225?autostart=false
 Thanks Fr. Robert Ballecer and Bryan Burnett for the shout-out!!! Sorry my Google Plus post was such a jaw buster!
+
+Later - Google Plus is no more so that link doesn't work
 
 ## FURTHER UPDATE:
 For a description of differences between the this build and the KnowHow build (other than software changes above), see
